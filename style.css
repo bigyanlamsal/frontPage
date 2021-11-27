@@ -2,6 +2,7 @@ ul.navbar-nav{
  background-color: #262626;
  color: white;
  align-content: center;	
+ 
 }
 a.navbar-brand{
 	background-color: white;
@@ -20,7 +21,6 @@ a.navbar-brand{
 .carousel-caption h5 {
     color: red;
 	font-size: 30px;
-	text-transform: uppercase;
 	letter-spacing: 2px;
 	margin-top: 25px;
 	font-family: merienda;
